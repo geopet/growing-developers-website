@@ -94,3 +94,14 @@ Read books that are ancillary to programming.
 you'll improve.
 * Doing self directed learning in a similar subject has more carryovers than fresh
 starts.
+
+### Resources
+
+* [Rake - FileList](https://github.com/jimweirich/rake/blob/master/lib/rake/file_list.rb)
+* [Peepcode - Play by Play](https://peepcode.com/screencasts/play-by-play)
+* [Jim Weirich - Roman Numerals Kata](http://bostonrb.org/presentations/kata-and-analysis)
+* [POODR](http://www.poodr.info)
+* [Functional Programming for OOP](https://leanpub.com/fp-oo)
+* [There's No Speed Limit](http://sivers.org/kimo)
+* [The Passionate Programmer](http://pragprog.com/book/cfcar2/the-passionate-programmer)
+* [Pragmatic Thinking and Learning](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
