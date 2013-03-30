@@ -2,7 +2,8 @@
 title: Surviving a Bad Project
 layout: shownotes
 youtube: Ejr3cUVXj2o
-tags: [projects]
+assetname: surviving-a-bad-project-hangouts-4-growing-developers
+tags: [survival-guide, projects, published]
 description: We've all been there. We've been asked to do the impossible, or
              work with the impossible, or finish before anything is possible. In this
              episode, we talk about how to make the most out of those situations!
