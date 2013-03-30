@@ -1,7 +1,7 @@
 ---
 title: Surviving a Bad Project
 layout: shownotes
-youtube: HzV93EBluOE
+youtube: Ejr3cUVXj2o
 tags: [projects]
 description: We've all been there. We've been asked to do the impossible, or
              work with the impossible, or finish before anything is possible. In this
@@ -11,15 +11,14 @@ description: We've all been there. We've been asked to do the impossible, or
 ### How do you identify a bad project?
 Low Frequency/Low Bandwidth/Top-down Communication
 
-If you're communicating too much you may be missing some expectations that are
-set up.
+If you're communicating too much you may be missing some expectations.
 
 A project is usually bad not because of the tech, but because of the team
 doesn't communicate well. Projects are people!
 
-[Latest Ruby
-Rogues](http://rubyrogues.com/095-rr-people-and-team-dynamics-with-joe-obrien/)
-with Joe O'Brian is awesome about this:
+The [Ruby Rogues with Joe O'
+Brian](http://rubyrogues.com/095-rr-people-and-team-dynamics-with-joe-obrien/)
+is awesome about this
 
 How to improve communication depends on your influence.
 
