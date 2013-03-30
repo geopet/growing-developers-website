@@ -3,6 +3,7 @@ title: Amber Conville's Path to Proficiency
 layout: pathways-to-proficiency
 contributors: [zee-spencer]
 interviewee: amber-conville
+assetname: amber-conville-pathways-to-proficiency-1-growing-developers
 tags: [no-college]
 description: This interview explores Amber Conville's passion
              for community and programming as well as her
