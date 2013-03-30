@@ -18,6 +18,14 @@ Featuring [Evan Light](http://twitter.com/elight),
 [Zach Briggs](http://twitter.com/theotherzach),
 and [Zee Spencer](http://twitter.com/zspencer)
 
+## Latest Path to Proficiency: [Amber Conville](/pathways-to-proficiency/amber-conville/index.html)
+
+This interview explores Amber Conville's passion for community and programming
+as well as her non-traditional educational background.
+
+[Download the
+Audio](//media.growingdevelopers.com/amber-conville-pathways-to-proficiency-1-growing-developers.mp3)
+
 ## Previous Shows
 
 ### [Surviving a Bad Project](/surviving-a-bad-project) &mdash; March 13, 2013
