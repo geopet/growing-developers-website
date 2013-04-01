@@ -14,7 +14,7 @@ Then _Growing Developers_ is for you!
 As developers, we often have to take our education into our own hands. In this episode, we discuss reading the source, going it alone, and learning from books.
 
 Featuring [Evan Light](http://twitter.com/elight),
-[Geoff Petri](http://twitter.com/geopet),
+[Geoff Petrie](http://twitter.com/geopet),
 [Zach Briggs](http://twitter.com/theotherzach),
 and [Zee Spencer](http://twitter.com/zspencer)
 
